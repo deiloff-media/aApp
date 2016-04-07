@@ -10,6 +10,6 @@
         }
     },
     "require": {
-        "amphp/thread": "0.9"
+        "amphp/thread": "0.8"
     }
 }
