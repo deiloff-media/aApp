@@ -10,6 +10,6 @@
         }
     },
     "require": {
-        "amphp/process": "^0.1.2"
+        "amphp/thread": "0.9"
     }
 }
