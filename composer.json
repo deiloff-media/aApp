@@ -11,6 +11,5 @@
     },
     "require": {
         "amphp/process": "^0.1.2"
-    },    
-    "minimum-stability": "dev"
+    }
 }
