@@ -3,12 +3,6 @@
     "description": "asyn app",
     "license": "MIT",
     "keywords": ["async", "mvp", "multiplttform"],
-    "authors": [
-        {
-            "name": "Roman Deiloff",
-            "email": "roman@deiloff.media",
-        }
-    ],    
     "homepage": "https://github.com/deiloff-media/aapp",
     "autoload": {
         "psr-4": {
@@ -16,22 +10,7 @@
         }
     },
     "require": {
-        "php": "^5.5 || ^7.0",
         "amphp/process": "^0.1.2"
     },    
-    "require-dev": {
-        "phpunit/PHPUnit": "~4.0"
-    },    
-    "minimum-stability": "dev",
-    "extra": {
-        "aapp": {
-            "config": "/config/config.php",        
-            "presenter": "aApp\\Presenter",        
-            "model": "aApp\\Model",
-            "view": "aApp\\View"
-        },
-        "branch-alias": {
-            "dev-master": "1.0-dev"
-        }
-    },
+    "minimum-stability": "dev"
 }
