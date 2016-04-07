@@ -1,6 +1,6 @@
 {
     "name": "deiloff-media/aapp",
-    "description": "asyn app",
+    "description": "A non-blocking concurrency framework for PHP applications",
     "license": "MIT",
     "keywords": ["async", "mvp", "multiplttform"],
     "homepage": "https://github.com/deiloff-media/aapp",
